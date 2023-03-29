@@ -1,0 +1,14 @@
+<!--#include virtual="../header.html" -->
+
+<style type="text/css">
+div p { text-align: left; }
+#top > p { text-align: center; }
+p { text-align: right; }
+.new { text-align: justify; }
+</style>
+
+<div id="top">
+	<p class="new">Where do I go?</p>
+</div>
+
+<!--#include virtual="../footer2.html" -->

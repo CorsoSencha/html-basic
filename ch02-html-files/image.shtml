@@ -1,0 +1,8 @@
+<!--#include virtual="../header.html" -->
+
+<p>
+  I wish I could snowboard as well as this guy: 
+  <img src="images/snowboarder.jpg" alt="snowboarder" />
+</p>
+
+<!--#include virtual="../footer2.html" -->

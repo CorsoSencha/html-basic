@@ -1,0 +1,12 @@
+<!--#include virtual="../header.html" -->
+
+<pre>
+Check out this cool <em>ASCII peace sign</em>:
+      .-|-.
+     /  |  \  
+    ;  /|\  ;
+     \/ | \/
+      '---'
+</pre>
+
+<!--#include virtual="../footer2.html" -->

@@ -1,0 +1,15 @@
+<!--#include virtual="../header.html" -->
+
+<p>Burbank Airport to Mulholland Drive:</p>
+
+<ol>
+  <li>Go west on Hollywood Way.</li>
+  <li>Go north on US-101.</li>
+  <li>Take I-405 South toward Santa Monica.</li>
+  <li>
+    Take exit for Skirball Center Drive
+    towards Mulholland Dr.
+  </li>
+</ol>
+
+<!--#include virtual="../footer2.html" -->

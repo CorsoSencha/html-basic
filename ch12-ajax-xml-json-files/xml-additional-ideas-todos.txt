@@ -1,0 +1,102 @@
+			XPath?  (doing "$$-like" selector queries on an XML DOM object)
+			http://www.w3.org/TR/xpath/
+			schemas/DTD?
+			XQuery?
+			XSLT?
+
+				xpath
+					http://www.w3schools.com/xpath/
+					http://www.w3schools.com/xpath/xpath_syntax.asp
+					https://developer.mozilla.org/en/introduction_to_using_xpath_in_javascript
+				    var xpathResult = document.evaluate( xpathExpression, contextNode, namespaceResolver, resultType, result );  
+		
+		
+					ie
+						xmlDoc.selectNodes(xpath);
+					ns/ff/chrome/opera
+						xmlDoc.evaluate(xpath, xmlDoc, null, XPathResult.ANY_TYPE,null);
+					
+				xquery - sql-ish syntax for grabbing data out of XML
+					http://www.w3schools.com/xquery/default.asp
+					
+					for $x in doc("books.xml")/bookstore/book
+					where $x/price>30
+					order by $x/title
+					return $x/title
+					
+					
+					<ul>
+					{
+					for $x in doc("books.xml")/bookstore/book/title
+					order by $x
+					return <li>{$x}</li>
+					}
+					</ul>
+					
+				xslt - translating XML to XHTML, etc. using "style sheets"
+					http://www.w3schools.com/xsl/default.asp
+					
+						<?xml version="1.0"?>
+							<xsl:stylesheet version="1.0"
+							xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+
+							<xsl:template match="/">
+							  <html>
+							  <body>
+								<h2>My CD Collection</h2>
+								<table border="1">
+								  <tr bgcolor="#9acd32">
+									<th>Title</th>
+									<th>Artist</th>
+								  </tr>
+								  <xsl:for-each select="catalog/cd">
+									<tr>
+									  <td><xsl:value-of select="title"/></td>
+									  <td><xsl:value-of select="artist"/></td>
+									</tr>
+								  </xsl:for-each>
+								</table>
+							  </body>
+							  </html>
+							</xsl:template>
+						</xsl:stylesheet>
+		
+
+			(Ajax) explain briefly what the code for books.php would look like
+				maybe just show the code with little explanation
+
+						Here's a direct link to our version of the books.php code:
+						
+						http://webster.cs.washington.edu/books.phps (source code)
+						http://webster.cs.washington.edu/books.php (runnable version you can test)
+						
+						Looking at it will probably answer your questions.  My quick summary:
+						
+						(a) No, the PHP code doesn't have to write anything specifically to
+						deal with Ajax or XMLHttpRequest.  As you figured, the PHP code just
+						sees it the same as any other incoming HTTP request, so all the
+						parameters passed in via Ajax arrive in the PHP code in the $_REQUEST
+						array.
+						
+						(b) The PHP code just prints XML code text as its output; no fancy
+						wrapping around it.  The only tricky parts are that it must use a
+						header to set its returned content-type to application/xml (so the
+						browser knows this is XML data), and that the VERY first line of the
+						output returned must be the XML prologue of:
+						
+						<?xml version="1.0" encoding="UTF-8"?>
+						
+						There cannot be a single stray space or line break before that XML
+						prologue line, else it fails.  So that's a little picky, and I print
+						it in the PHP first.  In fact, I use the print statement to produce
+						all of the output manually rather than switching to the raw HTML-like
+						output mode with ?> because I want to ensure that not a single stray
+						character gets sent back.  But it could be done either way.
+						
+						Probably in the next edition of the web textbook, we'll include this
+						code or at least some explanation of what it would look like.  We
+						wanted to include it in this edition but didn't want to just glue it
+						in there haphazardly.  We figured it would be more the sort of thing
+						teachers would want to know than students.  But probably more advanced
+						students would want to see the PHP as well.  We should probably put it
+						on the Supplements page of our book's web site.

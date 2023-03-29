@@ -1,0 +1,92 @@
+<!--#include virtual="../header.html" -->
+
+<table>
+  <caption>Nation Information</caption>
+  <tr>
+    <th>Country</th>
+    <th>Happiness Ranking</th>
+    <th>Population</th>
+    <th>Life Expectancy</th>
+    <th>GDP per Capita</th>
+  </tr>
+  <tr>
+    <td>Denmark</td>
+    <td>1</td>
+    <td>5.5 million</td>
+    <td>77.8 years</td>
+    <td>$34,600</td>
+  </tr>
+  <tr>
+    <td>Switzerland</td>
+    <td>2</td>
+    <td>7.5 million</td>
+    <td>80.5 years</td>
+    <td>$32,300</td>
+  </tr>
+  <tr>
+    <td>Austria</td>
+    <td>3</td>
+    <td>8.2 million</td>
+    <td>79 years</td>
+    <td>$32,700</td>
+  </tr>
+  <tr>
+    <td>Bahamas</td>
+    <td>5</td>
+    <td>303,800</td>
+    <td>65.6 years</td>
+    <td>$20,200</td>
+  </tr>
+  <tr>
+    <td>Bhutan</td>
+    <td>8</td>
+    <td>2.3 million</td>
+    <td>55 years</td>
+    <td>$1,400</td>
+  </tr>
+  <tr>
+    <td>Ireland</td>
+    <td>11</td>
+    <td>2.3 million</td>
+    <td>55 years</td>
+    <td>$1,400</td>
+  </tr>
+</table>
+
+<table>
+  <caption>Nation Information</caption>
+  <tr>
+    <th>Country</th>
+    <th>Happiness Ranking</th>
+    <th>Life Expectancy</th>
+    <th>GDP per Capita</th>
+  </tr>
+  <tr><td>Denmark</td><td>1</td><td>77.8 years</td><td>$34,600</td></tr>
+  <tr><td>Bahamas</td><td>5</td><td>65.6 years</td><td>$20,200</td></tr>
+  <tr><td>Bhutan</td><td>8</td><td>55 years</td><td>$1,400</td></tr>
+</table>
+
+<table border="1">
+  <caption>Nation Information</caption>
+  <tr>
+    <th>&nbsp;</th>
+    <th>Country</th>
+    <th>Happiness Ranking</th>
+    <th>Life Expectancy</th>
+    <th>GDP per Capita</th>
+  </tr>
+  <tr><th colspan="5">North America</th></tr>
+  <tr>
+    <th rowspan="1">Developing</th>
+    <td>Bahamas</td><td>5</td><td>65.6 years</td><td>$20,200</td>
+  </tr>
+  <tr>
+    <th rowspan="2">Developed</th>
+    <td>Canada</td><td>8</td><td>80.4 years</td><td>$38,200</td>
+  </tr>
+  <tr>
+    <td>United States</td><td>17</td><td>78.1 years</td><td>$45,800</td>
+  </tr>
+</table>
+
+<!--#include virtual="../footer2.html" -->

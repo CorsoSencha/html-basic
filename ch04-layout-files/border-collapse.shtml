@@ -1,0 +1,25 @@
+<!--#include virtual="../header.html" -->
+
+<style type="text/css">
+table, td, th {
+  border: 2px solid black;
+  border-collapse: collapse;
+}
+</style>
+
+<table>
+  <tr>
+    <th>Beverage</th>
+    <th>Caffeine (mg)</th>
+  </tr>
+  <tr>
+    <td>Brewed Coffee</td>
+    <td>80 - 135</td>
+  </tr>
+  <tr>
+    <td>Brewed Tea</td>
+    <td>60</td>
+  </tr>
+</table>
+
+<!--#include virtual="../footer2.html" -->

@@ -1,0 +1,17 @@
+<!--#include virtual="../header.html" -->
+
+    <script src="multilpy.js" type="text/javascript"></script>
+  </head>
+  
+<body>
+<h1>The Amazing Multiplier</h1>
+
+<div>
+  <input id="num1" type="text" size="3" /> *
+  <input id="num2" type="text" size="3" /> =
+  <span id="answer"></span> <br />
+
+  <button onclick="compute();">Compute!</button>
+</div>
+
+<!--#include virtual="../footer2.html" -->

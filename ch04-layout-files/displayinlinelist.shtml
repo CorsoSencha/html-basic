@@ -1,0 +1,19 @@
+<!--#include virtual="../header.html" -->
+
+<style type="text/css">
+li {
+  display: inline;
+  padding: 0.5em;
+  border: 2px solid gray;
+}
+</style>
+
+
+<ul id="menubar">
+  <li>News</li>
+  <li>Links</li>
+  <li>Members Only</li>
+  <li>Join</li>
+</ul>
+
+<!--#include virtual="../footer2.html" -->

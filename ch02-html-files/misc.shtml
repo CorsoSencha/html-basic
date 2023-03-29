@@ -1,0 +1,14 @@
+<!--#include virtual="../header.html" -->
+
+<p>
+  Don't forget to use the helpful acronym
+  <abbr title="Please Excuse My Dear Aunt Sally">PEMDAS</abbr>
+  to remember Java operator precedence!<br><br>
+</p>
+
+<p>
+	The displacement of a body in motion is given by:
+	x<sub>t</sub> = v<sub>0</sub>t + .5at<sup>2</sup>
+</p>
+
+<!--#include virtual="../footer2.html" -->

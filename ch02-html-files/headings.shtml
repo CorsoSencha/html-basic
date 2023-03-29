@@ -1,0 +1,25 @@
+<!--#include virtual="../header.html" -->
+
+<h1>Traveler Times Newspaper</h1>
+<h2>Latin America</h2>
+<h3>Puerto Escondido: Sun, Surf, and Sand</h3>
+<p>
+  Puerto Escondido is known for one of the world's
+  best surfing beaches, Playa Zicatela. ...
+</p>
+
+<h3>Tikal: Mayan Ruins in the Guatemalan Jungle</h3>
+<p>
+  Tikal is the largest of the ancient ruined cities
+  of the Mayan civilization. ...
+</p>
+
+
+<h2>Europe</h2>
+<h3>Drunk in Dublin</h3>
+<p>
+  Throwin' back pints with the locals in Dublin this past 
+  summer made me really appreciate the pub culture. ...
+</p>
+
+<!--#include virtual="../footer2.html" -->

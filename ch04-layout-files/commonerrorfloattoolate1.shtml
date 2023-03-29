@@ -1,0 +1,22 @@
+<!--#include virtual="../header.html" -->
+
+<style type="text/css">
+#logo {
+  float: right;
+}
+.spacer {
+  clear: both;
+}
+.urgent, p {
+  border: 2px solid black;
+}
+</style>
+
+
+<div class="urgent">
+  This is some text <br /> that spans two lines
+  <img id="logo" src="../images/smiley.png" width="50" height="50" alt="smiley" />
+  <div class="spacer"></div>
+</div>
+
+<!--#include virtual="../footer2.html" -->

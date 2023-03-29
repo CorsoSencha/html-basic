@@ -1,0 +1,8 @@
+<!--#include virtual="../header.html" -->
+
+<p>
+  The <code>System.out.println</code> method produces 
+  console output in a Java program.
+</p>
+
+<!--#include virtual="../footer2.html" -->

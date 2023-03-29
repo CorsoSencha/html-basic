@@ -1,0 +1,18 @@
+<!--#include virtual="../header.html" -->
+
+<style type="text/css">
+.urgent {
+  color: red;
+}
+.new {
+  background-color: yellow;
+}
+</style>
+
+<p>first paragraph</p>
+<p class="urgent">second paragraph</p>
+<p>third paragraph</p>
+<p class="urgent">fourth paragraph</p>
+<p class="new">fifth paragraph</p>
+
+<!--#include virtual="../footer2.html" -->

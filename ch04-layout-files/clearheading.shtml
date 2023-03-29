@@ -1,0 +1,28 @@
+<!--#include virtual="../header.html" -->
+
+<style type="text/css">
+img.hoveringicon {
+  float: left;
+  margin-right: 1em;
+}
+h2 {
+  clear: left;
+  background-color: yellow;
+}
+p {
+  background-color: fuchsia;
+}
+</style>
+
+
+<p>
+  <img class="hoveringicon" src="starhome.png" alt="starhome" />
+
+  Starhome Sprinter is a Flash animated Internet cartoon. It mixes
+  surreal humour with references to 1980s and 1990s pop culture,
+  notably video games, classic television and popular music.
+</p>
+
+<h2>My Starhome Sprinter Fan Site</h2>
+
+<!--#include virtual="../footer2.html" -->

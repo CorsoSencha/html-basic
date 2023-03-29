@@ -1,0 +1,17 @@
+<!--#include virtual="../header.html" -->
+
+    <script src="leapyear.js" type="text/javascript"></script>
+  </head>
+  
+<body>
+<h1>Leap Years</h1>
+
+<p>Type a year:</p>
+
+<div>
+  <input id="year" type="text" size="24" />
+  <button onclick="leapYears();">Compute Leap Years</button> <br />
+  <span id="output"></span>
+</div>
+
+<!--#include virtual="../footer2.html" -->

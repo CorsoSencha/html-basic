@@ -1,0 +1,16 @@
+<!--#include virtual="../header.html" -->
+
+<p>Categories of Eaters:</p>
+
+<ol>
+  <li>Omnivores: Eats both plants and animals
+    <ul>
+      <li>Most humans</li>
+      <li>Pigs</li>
+    </ul>
+  </li>
+  <li>Herbivores: Eats plants</li>
+  <li>Carnivores: Eats animals</li>
+</ol>
+
+<!--#include virtual="../footer2.html" -->

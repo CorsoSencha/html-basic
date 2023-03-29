@@ -1,0 +1,20 @@
+<!--#include virtual="../header.html" -->
+
+<style type="text/css">
+p {
+  width: 10em;
+  background-color: yellow;
+  border: 2px solid black;
+}
+h2 {
+  height: 3em;
+  background-color: aqua;
+  border: 2px solid black;
+}
+</style>
+
+
+<p>This is a paragraph with a fair amount of text</p>
+<h2>This is an h2</h2>
+
+<!--#include virtual="../footer2.html" -->

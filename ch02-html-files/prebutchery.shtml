@@ -1,0 +1,10 @@
+<!--#include virtual="../header.html" -->
+
+<p>
+  Roses are red
+  Violets are blue
+  All my base
+  Are belong to you
+</p>
+
+<!--#include virtual="../footer2.html" -->

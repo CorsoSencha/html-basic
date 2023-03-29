@@ -1,0 +1,11 @@
+<!--#include virtual="../header.html" -->
+
+<p>
+  To link to Google's most popular search,
+  use this XHTML code: <br />
+  &lt;a href=&quot;http://google.com/search?q=marty&amp;ie=utf-8&quot;&gt;
+    Search for Marty
+  &lt;/a&gt;
+</p>
+
+<!--#include virtual="../footer2.html" -->

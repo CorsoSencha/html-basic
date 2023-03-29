@@ -1,0 +1,16 @@
+<!--#include virtual="../header.html" -->
+
+<style type="text/css">
+h1 { padding: 1em; background-color: yellow; border: 3px solid black; }
+h2 { padding: 0em; background-color: #BBFFBB; }
+h3 { padding-left: 200px; padding-top: 30px; background-color: fuchsia; }
+</style>
+
+
+<h1>This is an h1</h1>
+<h1>This is another h1</h1>
+<h2>This is an h2</h2>
+<h3>This is an h3</h3>
+<h3>This is another h3</h3>
+
+<!--#include virtual="../footer2.html" -->

@@ -1,0 +1,18 @@
+<!--#include virtual="../header.html" -->
+
+<style type="text/css">
+#lifted {
+  position: relative;
+  left: 0.5em;
+  top: 1em;
+  border: 2px solid black;
+}
+</style>
+
+
+<p>
+  This example has <span id="lifted">some text</span>
+  with a relative position.
+</p>
+
+<!--#include virtual="../footer2.html" -->

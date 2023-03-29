@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="description" 
+      content="Authors' web site for Building Java Programs, a textbook
+      designed for use in a first course in computer science." />
+    <meta name="keywords" content="web programming, HTML, CSS, PHP" />
+
+    <title>
+      Building Java Programs: A Back to Basics Approach,
+      by Stuart Reges and Marty Stepp
+    </title>
+  </head>
+
+  <body>
+    ...
+  </body>
+</html>

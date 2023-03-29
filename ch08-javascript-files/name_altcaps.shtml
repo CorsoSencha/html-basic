@@ -1,0 +1,16 @@
+<!--#include virtual="../header.html" -->
+
+    <script src="name_altcaps.js" type="text/javascript"></script>
+  </head>
+  
+<body>
+<h1>Name Capitalizizizer</h1>
+
+<p>Type your name:</p>
+
+<div>
+  <input id="name" type="text" size="24" />
+  <button onclick="capitalize();">Capitalizizize it!</button>
+</div>
+
+<!--#include virtual="../footer2.html" -->

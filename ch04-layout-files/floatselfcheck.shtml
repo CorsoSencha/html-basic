@@ -1,0 +1,52 @@
+<!--#include virtual="../header.html" -->
+
+<style type="text/css">
+h1 {
+	border: 2px solid gray;
+	float: left;
+	font-size: 1em;
+	padding: 0.5em;
+	margin: 1em;
+}
+
+img {
+  float: right;
+  margin-left: 1em;
+}
+#main {
+  border: 2px solid black;
+  margin-left: 10%;
+  overflow: hidden;
+  text-align: right;
+  width: 80%;
+}
+</style>
+
+
+<div id="main">
+  <h1>My fan site</h1>
+
+  <img src="starhome.png" alt="starhome" />
+  
+  <p>
+    Starhome Sprinter is a Flash animated Internet cartoon. It mixes
+    surreal humour with references to 1980s and 1990s pop culture,
+    notably video games, classic television and popular music.
+  </p>
+
+  <p>
+    Most of the site's traffic comes from the United States; events
+    in the cartoon itself usually take place in Free Place, USA.
+  </p>
+
+  <p>
+    The cartoons are nominally centered on title character Starhome
+    Sprinter. However, the series titled Muscle Man Email, in which
+    another main character, Muscle Man, answers emails from viewers,
+    is the most popular and prominent feature of the site.
+  </p>
+
+  <p>Starhome's theme song says, "Everyperson! Everyperson!"</p>
+</div>
+
+<!--#include virtual="../footer2.html" -->

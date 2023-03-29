@@ -1,0 +1,23 @@
+<!--#include virtual="../header.html" -->
+
+<style type="text/css">
+#main {
+  background-color: #ddffdd;
+  font: 12pt "Tahoma", "Arial", sans-serif;
+}
+</style>
+
+<div id="main">
+  <h1>Marty's Ultimate Page</h1>
+
+  <p>blah blah blah... welcome to my ultimate page!</p>
+
+  <h2>Annual Members Meeting</h2>
+
+  <p>
+    The Annual Members Meeting of the Ultimate Players Association 
+    will take place on Sunday, January 20, ...
+  </p>
+</div>
+
+<!--#include virtual="../footer2.html" -->

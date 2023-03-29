@@ -1,0 +1,38 @@
+<!DOCTYPE html> 
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html>
+  <head>
+    <title>Marvelous Multiplication Quiz</title>
+    <link href="multquiz3.css" type="text/css" rel="stylesheet" />
+    <script src="prototype.js" type="text/javascript"></script>
+    <script src="multquiz3.js" type="text/javascript"></script>
+  </head>
+  
+  <body>
+    <h1>Multiplication Quiz</h1>
+
+    <div id="main">
+      <fieldset>
+        <legend>Time</legend>
+        <div><span id="time">5</span> sec</div>
+      </fieldset>
+
+      <fieldset>
+        <legend>Current Problem</legend>
+        <div>
+          <span id="num1"></span> * <span id="num2"></span> =
+          <input id="guess" type="text" size="3" maxlength="3" />
+        </div>
+      </fieldset>
+
+      <fieldset>
+        <legend>Score</legend>
+        <div>
+          <span id="correct">0</span> / <span id="total">0</span>
+        </div>
+      </fieldset>
+    </div>
+
+    <p>You have 5 seconds for each problem.  How many can you solve?</p>
+  </body>
+</html>

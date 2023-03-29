@@ -1,0 +1,15 @@
+<!--#include virtual="../header.html" -->
+
+<style type="text/css">
+h2 {
+  display: inline;
+  background-color: yellow;
+  border: 1px solid black;
+}
+</style>
+
+
+<h2>This is a heading</h2>
+<h2>This is another heading</h2>
+
+<!--#include virtual="../footer2.html" -->

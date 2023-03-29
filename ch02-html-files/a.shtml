@@ -1,0 +1,8 @@
+<!--#include virtual="../header.html" -->
+
+<p>
+  <a href="http://www.imdb.com/">IMDB</a> is 
+  a great resource to find out information about movies.
+</p>
+
+<!--#include virtual="../footer2.html" -->

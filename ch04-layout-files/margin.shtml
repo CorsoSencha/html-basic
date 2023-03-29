@@ -1,0 +1,14 @@
+<!--#include virtual="../header.html" -->
+
+<style type="text/css">
+p {
+  margin: 2em;
+  background-color: yellow;
+}
+</style>
+
+
+<p>This is the first paragraph</p>
+<p>This is the second paragraph</p>
+
+<!--#include virtual="../footer2.html" -->

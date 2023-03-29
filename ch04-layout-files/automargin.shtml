@@ -1,0 +1,18 @@
+<!--#include virtual="../header.html" -->
+
+<style type="text/css">
+p {
+	border: 2px solid black;
+  margin-left: auto;
+  margin-right: auto;
+  width: 33%; 
+}
+</style>
+
+
+<p>
+  Lorem ipsum dolor sit amet, consectetur adipisicing elit,
+  sed do eiusmod tempor incididunt ut la-bore et dolore magna aliqua.
+</p>
+
+<!--#include virtual="../footer2.html" -->

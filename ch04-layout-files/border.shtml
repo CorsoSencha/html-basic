@@ -1,0 +1,15 @@
+<!--#include virtual="../header.html" -->
+
+<style type="text/css">
+h2 {
+  border: 5px solid red;
+  border-left: thick dotted #CC0088;
+  border-bottom-color: rgb(0, 128, 128);
+  border-bottom-style: double;
+}
+</style>
+
+
+<h2>I'm HEADING your way!</h2>
+
+<!--#include virtual="../footer2.html" -->

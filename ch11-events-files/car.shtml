@@ -1,0 +1,23 @@
+<!--#include virtual="../header.html" -->
+
+	<script src="../prototype.js" type="text/javascript"></script>
+	<script src="car.js" type="text/javascript"></script>
+</head>
+  
+<body>
+
+<form>
+
+<select id="car">
+  <option value="Chevy">Chevy</option>
+  <option value="Ford">Ford</option>
+  <option value="Toyota">Toyota</option>
+</select>
+
+<label>
+  <input id="hybrid" type="checkbox" disabled="disabled" /> Hybrid?
+</label>
+
+</form>
+
+<!--#include virtual="../footer2.html" -->

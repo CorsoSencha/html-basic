@@ -1,0 +1,25 @@
+<!--#include virtual="../header.html" -->
+
+<style type="text/css">
+img.hoveringicon {
+  float: left;
+  margin-right: 1em;
+}
+#main {
+  border: 2px solid black;
+  overflow: hidden;
+}
+</style>
+
+
+<div id="main">
+  <p>
+    <img class="hoveringicon" src="starhome.png" alt="starhome" />
+    Starhome Sprinter is a Flash animated Internet cartoon. It mixes
+    surreal humour with references to 1980s and 1990s pop culture,
+    notably video games, classic television and popular music.
+  </p>
+  <p>Starhome's theme song says, "Everyperson! Everyperson!"</p>
+</div>
+
+<!--#include virtual="../footer2.html" -->

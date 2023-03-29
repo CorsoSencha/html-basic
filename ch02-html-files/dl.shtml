@@ -1,0 +1,18 @@
+<!--#include virtual="../header.html" -->
+
+<p>Categories of Eaters:</p>
+<dl>
+  <dt>Carnivores</dt>
+  <dd>Eats meat</dd>
+  
+  <dt>Vegetarian</dt>
+  <dd>Does not eat meat</dd>
+  
+  <dt>Omnivores</dt>
+  <dd>Eats both plants and animals</dd>
+  
+  <dt>Hamburgeretarian</dt>
+  <dd>Eats only hamburgers</dd>
+</dl>
+
+<!--#include virtual="../footer2.html" -->

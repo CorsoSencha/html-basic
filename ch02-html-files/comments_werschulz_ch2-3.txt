@@ -1,0 +1,9 @@
+Someplace in Chapter 2, I thought I had seen a statement saying that
+CSS would be covered later in Chapter 3, but I can't seem to find it
+right now.
+
+pg 71: colgroup seems to work okay in Firefox (at least for the
+example given).
+
+pg 72: emacs has some nice tools for editing XHTML and CSS files,
+which also provide validation.

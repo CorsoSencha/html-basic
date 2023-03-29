@@ -1,0 +1,30 @@
+/* CSS code for multiplication quiz example */
+body, input {
+  font-family: "Calibri", "Verdana", "Arial", sans-serif;
+}
+
+#main {
+  margin-left: auto;
+  margin-right: auto;
+  overflow: hidden;
+  width: 40em;
+}
+
+fieldset {
+  float: left;
+  margin-left: 1em;
+  width: 10em;
+}
+
+fieldset, h1, p {
+  text-align: center;
+}
+
+.correct {
+  color: green;
+  font-weight: bold;
+}
+
+.incorrect {
+  color: red;
+}

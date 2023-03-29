@@ -1,0 +1,23 @@
+<!--#include virtual="../header.html" -->
+
+<style type="text/css">
+</style>
+
+
+<p style="line-height: 80px;">
+  Hello 
+  <img src="../images/smiley.jpg" width="50" height="50" style="border: 1px solid black; vertical-align: top;" alt="smiley face" />
+
+  how 
+  <img src="../images/smiley.jpg" width="50" height="50" style="border: 1px solid black; vertical-align: bottom;" alt="smiley face" />
+
+  are 
+  <img src="../images/smiley.jpg" width="50" height="50" style="border: 1px solid black; vertical-align: middle;" alt="smiley face" />
+
+  you? 
+  <img src="../images/smiley.jpg" width="50" height="50" style="border: 1px solid black; vertical-align: baseline;" alt="smiley face" />
+  <br />
+  I am fine
+</p>
+
+<!--#include virtual="../footer2.html" -->

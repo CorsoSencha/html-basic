@@ -1,0 +1,12 @@
+<!--#include virtual="../header.html" -->
+
+<style type="text/css">
+</style>
+
+
+<!-- a spacer image of 200px between two other images -->
+<img src="../images/smiley.png" alt="smiley face" />
+<img src="../images/pixel.gif" width="200" height="1" alt="spacer" />
+<img src="../images/puppy.jpg" alt="cute puppy" />
+
+<!--#include virtual="../footer2.html" -->

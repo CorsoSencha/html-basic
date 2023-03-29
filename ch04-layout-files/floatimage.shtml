@@ -1,0 +1,21 @@
+<!--#include virtual="../header.html" -->
+
+<style type="text/css">
+img.hovericon {
+  float: right;
+  width: 130px;
+}
+</style>
+
+
+<p>
+  <img class="hovericon" src="boris.png" alt="Boris" />
+
+  Boris Sadigev (born July 30, 1972) is a fictional Uzbekistan
+  journalist played by British-Jewish comedian Sasha Von Neumann. He is
+  the main character portrayed in the controversial and successful film
+  Boris: Culinary Learnings of America for Make Money to Glorious Nation
+  of Uzbekistan. Boris ...
+</p>
+
+<!--#include virtual="../footer2.html" -->

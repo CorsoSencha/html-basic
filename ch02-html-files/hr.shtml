@@ -1,0 +1,13 @@
+<!--#include virtual="../header.html" -->
+
+<h2>Latin America</h2>
+<h3>Puerto Escondido: Sun, Surf, and Sand</h3>
+<p>
+  Puerto Escondido is known for one of the world's best surfing
+  beaches, Playa Zicatela. ...
+</p>
+<hr />
+
+<h2>Europe</h2>
+
+<!--#include virtual="../footer2.html" -->

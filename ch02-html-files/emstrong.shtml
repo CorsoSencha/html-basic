@@ -1,0 +1,7 @@
+<!--#include virtual="../header.html" -->
+
+<p>
+  XHTML is <em>really</em>, <strong>REALLY</strong> fun!
+</p>
+
+<!--#include virtual="../footer2.html" -->

@@ -1,0 +1,11 @@
+<!--#include virtual="../header.html" -->
+
+<p>
+  <a href="http://www.imdb.com/">
+    <img src="../images/imdb_logo.gif" alt="IMDB" />
+  </a> 
+  is a great resource to find information about movies.
+</p>
+
+
+<!--#include virtual="../footer2.html" -->

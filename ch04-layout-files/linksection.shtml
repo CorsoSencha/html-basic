@@ -1,0 +1,10 @@
+<!--#include virtual="../header.html" -->
+
+<style type="text/css">
+</style>
+
+<p>
+  Traveling to <a href="#europe">Europe</a> is fun... but it ain't cheap!
+</p>
+
+<!--#include virtual="../footer2.html" -->

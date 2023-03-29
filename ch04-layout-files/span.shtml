@@ -1,0 +1,24 @@
+<!--#include virtual="../header.html" -->
+
+<style type="text/css">
+.announcement {
+  background-color: blue;
+  color: white;
+}
+
+.firstword {
+  font-size: 32pt;
+}
+</style>
+
+
+<h2>
+	<span class="announcement">Annual Members Meeting</span>
+</h2>
+
+<p>
+  <span class="firstword">The</span> Annual Members Meeting of the 
+  Ultimate Players Association will take place on Sunday, January 20, ...
+</p>
+
+<!--#include virtual="../footer2.html" -->

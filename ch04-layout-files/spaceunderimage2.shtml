@@ -1,0 +1,19 @@
+<!--#include virtual="../header.html" -->
+
+<style type="text/css">
+.alert {
+  background-color: red;
+  margin: 0px;
+  padding: 0px;
+}
+.bottom {
+  vertical-align: bottom;
+}
+</style>
+
+
+<p class="alert">
+  <img class="bottom" src="../images/smiley.png" alt="smile" />
+</p>
+
+<!--#include virtual="../footer2.html" -->

@@ -1,0 +1,12 @@
+<!--#include virtual="../header.html" -->
+
+<style type="text/css">
+#ex1, #ex2 {width: 12em; border: 2px solid black; }
+#ex2 { text-align: right; }
+</style>
+
+
+<p id="ex1">I am the very model of a modern Major-General,</p>
+<p id="ex2">I've information vegetable, animal, and mineral.</p>
+
+<!--#include virtual="../footer2.html" -->

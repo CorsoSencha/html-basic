@@ -1,0 +1,10 @@
+<!--#include virtual="../header.html" -->
+
+<p>
+  I wish I could snowboard as well as this guy: 
+  <img src="images/snowboarder.jpg" alt="a snowboarder" 
+   title="snowboarding picture from sierrasnowboard.com"
+   width="100" height="140" />
+</p>
+
+<!--#include virtual="../footer2.html" -->

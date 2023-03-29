@@ -1,0 +1,36 @@
+<!--#include virtual="../header.html" -->
+
+<style type="text/css">
+body {
+  padding-top: 60px;
+}
+p {
+  border: 3px dashed black;
+}
+.happy {
+  vertical-align: bottom;
+}
+.inlinestyles {
+  border: 3px solid red;
+  vertical-align: top;
+}
+.puppy {
+  vertical-align: middle;
+}
+</style>
+
+
+<p>
+  <span class="inlinestyles">
+    Don't be sad!  Turn that frown 
+    <img src="sad.png" alt="sad" /> upside down!
+    <img class="happy" src="smiley.png" alt="smile" /> 
+    Smiling burns calories, you know.  
+    <img class="puppy" src="puppy.jpg" alt="puppy" /> 
+    Anyway, look at this cute puppy; isn't he adorable!  So cheer up,
+    and have a nice day.  The End.
+  </span>
+</p>
+
+<!--#include virtual="../footer2.html" -->
+virtual="../footer2.html" -->

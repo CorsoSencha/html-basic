@@ -1,0 +1,9 @@
+1:57 | Jessica Miller ok hit me
+1:57 | Marty Stepp | which server-side languages should the book cover?  perl, php, python, ruby, .net, java, others?
+1:57 | Jessica Miller | yeah i have been thinking about that
+1:57 | Marty Stepp | in what order should the book cover various topics?
+1:57 | Jessica Miller i have been thinking about that too
+1:57 | Marty Stepp | ajax, xml, javascript, databases etc.
+- what should the writing style of the book be?  informal, verbose, concise, humorous, dry, etc.?
+- should the book use large examples / case studies, small examples, etc.?
+1:58 | Jessica Miller | hmmm...didn't think about that

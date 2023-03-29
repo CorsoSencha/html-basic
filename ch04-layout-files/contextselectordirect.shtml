@@ -1,0 +1,28 @@
+<!--#include virtual="../header.html" -->
+
+<style type="text/css">
+li {
+  background-color: cyan;
+  font-weight: normal;
+}
+.newslist > li {
+  background-color: yellow;
+  font-weight: bold;
+}
+</style>
+
+
+<ul class="newslist">
+  <li>Ultimate frisbee declared an Olympic sport</li>
+  <li>George W. Bush hit by frisbee, hospitalized</li>
+  <li>Frisbee catches dog</li>
+  <li>Study results on Frisbee players:
+    <ul>
+      <li>more wealthy</li>
+      <li>better looking</li>
+      <li>more virile</li>
+    </ul>
+  </li>
+</ul>
+
+<!--#include virtual="../footer2.html" -->

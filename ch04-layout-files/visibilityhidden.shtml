@@ -1,0 +1,18 @@
+<!--#include virtual="../header.html" -->
+
+<style type="text/css">
+div {
+  border: 2px solid black;
+}
+p.secret {
+  visibility: hidden;
+}
+</style>
+
+
+<div>
+  <p class="secret">No one will be able to see this! :-(</p>
+  <p>But you can see this</p>
+</div>
+
+<!--#include virtual="../footer2.html" -->
